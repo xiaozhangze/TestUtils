@@ -1,10 +1,10 @@
-package com.zz.myutils.transformer;
+package com.zz.myutils.swipe.transformer;
 
 import android.view.View;
 
 import androidx.annotation.FloatRange;
 
-import com.zz.myutils.SwipeBackLayout;
+import com.zz.myutils.swipe.SwipeBackLayout;
 
 /**
  * @version v1.0.0

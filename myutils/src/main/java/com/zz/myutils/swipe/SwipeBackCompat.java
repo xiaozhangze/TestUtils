@@ -1,4 +1,4 @@
-package com.zz.myutils;
+package com.zz.myutils.swipe;
 
 import android.app.Activity;
 import android.app.ActivityOptions;

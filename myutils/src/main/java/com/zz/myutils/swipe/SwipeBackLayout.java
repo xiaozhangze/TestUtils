@@ -1,4 +1,4 @@
-package com.zz.myutils;
+package com.zz.myutils.swipe;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
@@ -29,7 +29,8 @@ import androidx.core.view.MotionEventCompat;
 import androidx.core.view.ViewCompat;
 import androidx.customview.widget.ViewDragHelper;
 
-import com.zz.myutils.transformer.ParallaxSwipeBackTransformer;
+import com.zz.myutils.R;
+import com.zz.myutils.swipe.transformer.ParallaxSwipeBackTransformer;
 
 import java.util.List;
 

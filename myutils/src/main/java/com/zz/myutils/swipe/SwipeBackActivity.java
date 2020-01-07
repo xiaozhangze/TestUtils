@@ -1,4 +1,4 @@
-package com.zz.myutils;
+package com.zz.myutils.swipe;
 
 import android.os.Bundle;
 
